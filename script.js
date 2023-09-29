@@ -18,3 +18,5 @@ function firstNonRepeatedChar(str) {
     // If no non-repeated character is found, return null
     return null;
 }
+console.log(firstNonRepeatedChar('aabbcdd')); 
+console.log(firstNonRepeatedChar('aabbcc'));
